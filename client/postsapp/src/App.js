@@ -49,7 +49,7 @@ function App() {
 
   const router = createBrowserRouter([
     {
-      path: "/",
+      path: "/index.html",
       element: (
         <ProtectedRoute>
           <Layout />
